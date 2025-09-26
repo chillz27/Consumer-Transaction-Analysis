@@ -43,8 +43,8 @@ pip install pandas matplotlib seaborn jupyter
 ## Usage  
 1. Clone this repository  
    ```bash
-   git clone https://github.com/yourusername/spending-analysis-report.git
-   cd spending-analysis-report
+   git clone https://github.com/chillz27/Consumer-Transaction-Analysis.git
+   cd Consumer-Transaction-Analysis
    ```
 2. Launch Jupyter Notebook  
    ```bash
